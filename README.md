@@ -42,7 +42,7 @@ Zur Beantwortung der Forscungsfrage haben wir jeweils 5 Bilder aus den Kategorie
 
 Das Preset ist für die Kategorie Landschaft entwickelt worden. Zur besseren Veranschaulichung der Wirkung des Presets, haben wir das Histogramm ausgewertet und sind zu dem Ergebnis gekommen, dass das ausgewählte Preset im Bereich Landschaft besonders die Blautöne intensiviert und die Rottöne abschwächt.
 
-![Preset_Auswertung](AA.png)
+![PNG](AA.png)
 
 
 Die Anwendung des Presets erfolgte mittels der Software Photoshop. 
@@ -54,10 +54,10 @@ Die folgenden Bilder entsprechen unseren Stimuli, welche sich aus 3 Kategorien x
 | Bild | 0% | 50% | 100% | 150% | 
 | :-: | :-: | :-: | :-: | :-: |
 | A | ![A-1](1a.jpg) | ![A-2](1b.png) | ![A-3](1c.png) | ![A-4](1d.png) |
-| B | ![B-1](2a.jpg) | ![B-2](2b.png) | ![B-3](2c.png) | ![B-4](files/2d.png) |
-| C | ![C-1](3a.jpg) | ![C-2](3b.png) | ![C-3](3c.png) | ![C-4](files/3d.png) |
-| D | ![D-1](4a.jpg) | ![D-2](4b.png) | ![D-3](4c.png) | ![D-4](files/4d.png) |
-| E | ![E-1](2a.jpg) | ![E-2](2b.png) | ![E-3](2c.png) | ![E-4](files/2d.png) |
+| B | ![B-1](2a.jpg) | ![B-2](2b.png) | ![B-3](2c.png) | ![B-4](2d.png) |
+| C | ![C-1](3a.jpg) | ![C-2](3b.png) | ![C-3](3c.png) | ![C-4](3d.png) |
+| D | ![D-1](4a.jpg) | ![D-2](4b.png) | ![D-3](4c.png) | ![D-4](4d.png) |
+| E | ![E-1](5a.jpg) | ![E-2](5b.png) | ![E-3](5c.png) | ![E-4](5d.png) |
 
 ### Kategorie Produkt
 
