@@ -53,7 +53,7 @@ Die folgenden Bilder entsprechen unseren Stimuli, welche sich aus 3 Kategorien x
 
 | Bild | 0% | 50% | 100% | 150% | 
 | :-: | :-: | :-: | :-: | :-: |
-| A | ![A-1](files/1a.jpg) | ![A-2](files/1b.png) | ![A-3](files/1c.png) | ![A-4](files/1d.png) |
+| A | ![A-1](1a.jpg) | ![A-2](files/1b.png) | ![A-3](files/1c.png) | ![A-4](files/1d.png) |
 | B | ![B-1](files/2a.jpg) | ![B-2](files/2b.png) | ![B-3](files/2c.png) | ![B-4](files/2d.png) |
 | C | ![C-1](files/3a.jpg) | ![C-2](files/3b.png) | ![C-3](files/3c.png) | ![C-4](files/3d.png) |
 | D | ![D-1](files/4a.jpg) | ![D-2](files/4b.png) | ![D-3](files/4c.png) | ![D-4](files/4d.png) |
