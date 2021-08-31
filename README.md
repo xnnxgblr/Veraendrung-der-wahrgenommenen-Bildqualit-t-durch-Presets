@@ -42,7 +42,7 @@ Zur Beantwortung der Forscungsfrage haben wir jeweils 5 Bilder aus den Kategorie
 
 Das Preset ist für die Kategorie Landschaft entwickelt worden. Zur besseren Veranschaulichung der Wirkung des Presets, haben wir das Histogramm ausgewertet und sind zu dem Ergebnis gekommen, dass das ausgewählte Preset im Bereich Landschaft besonders die Blautöne intensiviert und die Rottöne abschwächt.
 
-![Preset_Auswertung](files/AA.png)
+![Preset_Auswertung](AA.png)
 
 
 Die Anwendung des Presets erfolgte mittels der Software Photoshop. 
@@ -53,31 +53,31 @@ Die folgenden Bilder entsprechen unseren Stimuli, welche sich aus 3 Kategorien x
 
 | Bild | 0% | 50% | 100% | 150% | 
 | :-: | :-: | :-: | :-: | :-: |
-| A | ![A-1](1a.jpg) | ![A-2](files/1b.png) | ![A-3](files/1c.png) | ![A-4](files/1d.png) |
-| B | ![B-1](files/2a.jpg) | ![B-2](files/2b.png) | ![B-3](files/2c.png) | ![B-4](files/2d.png) |
-| C | ![C-1](files/3a.jpg) | ![C-2](files/3b.png) | ![C-3](files/3c.png) | ![C-4](files/3d.png) |
-| D | ![D-1](files/4a.jpg) | ![D-2](files/4b.png) | ![D-3](files/4c.png) | ![D-4](files/4d.png) |
-| E | ![E-1](files/2a.jpg) | ![E-2](files/2b.png) | ![E-3](files/2c.png) | ![E-4](files/2d.png) |
+| A | ![A-1](1a.jpg) | ![A-2](1b.png) | ![A-3](1c.png) | ![A-4](1d.png) |
+| B | ![B-1](2a.jpg) | ![B-2](2b.png) | ![B-3](2c.png) | ![B-4](files/2d.png) |
+| C | ![C-1](3a.jpg) | ![C-2](3b.png) | ![C-3](3c.png) | ![C-4](files/3d.png) |
+| D | ![D-1](4a.jpg) | ![D-2](4b.png) | ![D-3](4c.png) | ![D-4](files/4d.png) |
+| E | ![E-1](2a.jpg) | ![E-2](2b.png) | ![E-3](2c.png) | ![E-4](files/2d.png) |
 
 ### Kategorie Produkt
 
 | Bild | 0% | 50% | 100% | 150% | 
 | :-: | :-: | :-: | :-: | :-: |
-| F | ![F-1](files/6a.jpg) | ![F-2](files/6b.png) | ![F-3](files/6c.png) | ![F-4](files/6d.png) |
-| G | ![G-1](files/7a.jpg) | ![G-2](files/7b.png) | ![G-3](files/7c.png) | ![G-4](files/7d.png) |
-| H | ![H-1](files/8a.jpg) | ![H-2](files/8b.png) | ![H-3](files/8c.png) | ![H-4](files/8d.png) |
-| I | ![I-1](files/9a.jpg) | ![I-2](files/9b.png) | ![I-3](files/9c.png) | ![I-4](files/9d.png) |
-| J | ![J-1](files/10a.jpg) | ![J-2](files/10b.png) | ![J-3](files/10c.png) | ![J-4](files/10d.png) |
+| F | ![F-1](6a.jpg) | ![F-2](6b.png) | ![F-3](6c.png) | ![F-4](6d.png) |
+| G | ![G-1](7a.jpg) | ![G-2](7b.png) | ![G-3](7c.png) | ![G-4](7d.png) |
+| H | ![H-1](8a.jpg) | ![H-2](8b.png) | ![H-3](8c.png) | ![H-4](8d.png) |
+| I | ![I-1](9a.jpg) | ![I-2](9b.png) | ![I-3](9c.png) | ![I-4](9d.png) |
+| J | ![J-1](10a.jpg) | ![J-2](10b.png) | ![J-3](10c.png) | ![J-4](10d.png) |
 
 ### Kategorie Portrait
 
 | Bild | 0% | 50% | 100% | 150% | 
 | :-: | :-: | :-: | :-: | :-: |
-| K | ![K-1](files/11a.jpg) | ![K-2](files/11b.png) | ![K-3](files/11c.png) | ![K-4](files/11d.png) |
-| L | ![L-1](files/12a.jpg) | ![L-2](files/12b.png) | ![L-3](files/12c.png) | ![L-4](files/12d.png) |
-| M | ![M-1](files/13a.jpg) | ![M-2](files/13b.png) | ![M-3](files/13c.png) | ![M-4](files/13d.png) |
-| N | ![N-1](files/14a.jpg) | ![N-2](files/14b.png) | ![N-3](files/14c.png) | ![N-4](files/14d.png) |
-| O | ![O-1](files/15a.jpg) | ![O-2](files/15b.png) | ![O-3](files/15c.png) | ![O-4](files/15d.png) |
+| K | ![K-1](11a.jpg) | ![K-2](11b.png) | ![K-3](11c.png) | ![K-4](11d.png) |
+| L | ![L-1](12a.jpg) | ![L-2](12b.png) | ![L-3](12c.png) | ![L-4](12d.png) |
+| M | ![M-1](13a.jpg) | ![M-2](13b.png) | ![M-3](13c.png) | ![M-4](13d.png) |
+| N | ![N-1](14a.jpg) | ![N-2](14b.png) | ![N-3](14c.png) | ![N-4](14d.png) |
+| O | ![O-1](15a.jpg) | ![O-2](15b.png) | ![O-3](15c.png) | ![O-4](15d.png) |
 
 
 Wir ließen die Versuchsteilnehmer_innen aufgrund ihres Empfindens die Bildqualität in 5 verschiedenen Stufen bewerten. Von 1 - sehr schlechte Qualität, hinzu 5 - sehr gute Qualität. Dies haben wir mittels Mean Opinion Score ausgewertet. Die Umfrage veranstalteten wir über die Plattform surveymonkey. 
