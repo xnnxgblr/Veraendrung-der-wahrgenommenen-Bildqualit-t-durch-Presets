@@ -42,7 +42,7 @@ Zur Beantwortung der Forscungsfrage haben wir jeweils 5 Bilder aus den Kategorie
 
 Das Preset ist für die Kategorie Landschaft entwickelt worden. Zur besseren Veranschaulichung der Wirkung des Presets, haben wir das Histogramm ausgewertet und sind zu dem Ergebnis gekommen, dass das ausgewählte Preset im Bereich Landschaft besonders die Blautöne intensiviert und die Rottöne abschwächt.
 
-![PNG](AA.png)
+![PNG](AA.PNG)
 
 
 Die Anwendung des Presets erfolgte mittels der Software Photoshop. 
