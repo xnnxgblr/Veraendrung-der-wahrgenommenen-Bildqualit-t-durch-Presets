@@ -16,9 +16,6 @@ import matplotlib.pyplot as plt
 
 sns.set_context('talk')
 
-import scipy 
-import statsmodels.api as sm  
-from statsmodels.stats.multicomp import MultiComparison
 ```
 
 ## 1. Einleitung
@@ -80,8 +77,8 @@ Die folgenden Bilder entsprechen unseren Stimuli, welche sich aus 3 Kategorien x
 | O | ![O-1](15a.jpg) | ![O-2](15b.png) | ![O-3](15c.png) | ![O-4](15d.png) |
 
 
-Wir ließen die Versuchsteilnehmer_innen aufgrund ihres Empfindens die Bildqualität in 5 verschiedenen Stufen bewerten. Von 1 - sehr schlechte Qualität, hinzu 5 - sehr gute Qualität. Dies haben wir mittels Mean Opinion Score ausgewertet. Die Umfrage veranstalteten wir über die Plattform surveymonkey. 
-Die Umfrage wurde von neun Versuchsteilnehmer_innen bearbeitet, welche keine Kenntnis über die Bearbeitung der Bilder sowie keine bekannte Farbsehschwäche hatten. 
+Wir ließen die Versuchsteilnehmer_innen aufgrund ihres Empfindens die Bildqualität in 5 verschiedenen Stufen bewerten. Von 1 - sehr schlechte Qualität, hinzu 5 - sehr gute Qualität. Dabei sahen die Teilnehmer_innen jeweils nur das zu bewertende Bild. SIe bekamen kein Vergleichsbild. Dies haben wir mittels Mean Opinion Score ausgewertet. Die Umfrage veranstalteten wir über die Plattform surveymonkey. 
+Insgesamt wurde die Umfrage von neun Versuchsteilnehmer_innen bearbeitet, welche keine Kenntnis über die Bearbeitung der Bilder sowie keine bekannte Farbsehschwäche hatten. 
 
 
 ## 3. Ergebnisse
@@ -304,13 +301,3 @@ Wie bereits diskutiert ergeben sich Möglichkeiten für neue Fragestellungen. So
 
 
 
-
-
-```python
-
-```
-
-
-```python
-
-```
